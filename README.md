@@ -1,6 +1,6 @@
 # jpa03-jzipkin1812
 
-Running at: [<https://starter-jpa03.dokku-00.cs.ucsb.edu>](https://jpa03-jzipkin1812.dokku-12.cs.ucsb.edu/)
+Running at: [https://jpa03-jzipkin1812.dokku-12.cs.ucsb.edu/](https://jpa03-jzipkin1812.dokku-12.cs.ucsb.edu/)
 
 # Configuring GitHub Pages for the documentation
 
